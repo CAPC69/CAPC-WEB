@@ -174,34 +174,34 @@ body p{
 }
 .fase4 .fila_a img{
     transition: all 700ms;
-    filter: blur(8px);
-    -webkit-filter: blur(8px);
+    filter: blur(2px);
+    -webkit-filter: blur(2px);
 }
 .fase4 .fila_a img:hover{
     box-shadow: 3px 3px 0px rgba(1, 255, 242, 0.747);
-    width: 21.5%;
+    width: 20.5%;
     filter: blur(0px);
     -webkit-filter: blur(0px);
 }
 .fase4 .fila_b img{
     transition: all 700ms;
-    filter: blur(8px);
-    -webkit-filter: blur(8px);
+    filter: blur(2px);
+    -webkit-filter: blur(2px);
 }
 .fase4 .fila_b img:hover{
     box-shadow: 3px 3px 0px rgba(1, 255, 242, 0.747);
-    width: 21.5%;
+    width: 20.5%;
     filter: blur(0px);
     -webkit-filter: blur(0px);
 }
 .fase4 .fila_c img{
     transition: all 700ms;
-    filter: blur(8px);
-    -webkit-filter: blur(8px);
+    filter: blur(2px);
+    -webkit-filter: blur(2px);
 }
 .fase4 .fila_c img:hover{
     box-shadow: 3px 3px 0px rgba(1, 255, 242, 0.747);
-    width: 21.5%;
+    width: 20.5%;
     filter: blur(0px);
     -webkit-filter: blur(0px);
 }
@@ -256,13 +256,6 @@ body p{
     margin-right: 44%;
     margin-top: 0.1%;
 }
-
-
-
-
-
-
-
 
             /* SUPPORT */
 
